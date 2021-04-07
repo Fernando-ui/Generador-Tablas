@@ -1,0 +1,16 @@
+{
+  "name": "03-bases-de-node",
+  "version": "0.0.1",
+  "description": "Tabla de multiplicar",
+  "main": "01-index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node 01-index.js --base=3"
+  },
+  "author": "fernando Sosa",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {}
+}
